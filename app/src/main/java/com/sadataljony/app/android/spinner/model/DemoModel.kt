@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.demospinner.model
+package com.sadataljony.app.android.spinner.model
 
 import com.google.gson.annotations.SerializedName
 

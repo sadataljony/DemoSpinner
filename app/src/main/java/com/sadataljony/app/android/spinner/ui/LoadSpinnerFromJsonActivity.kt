@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.demospinner.ui
+package com.sadataljony.app.android.spinner.ui
 
 import android.os.Bundle
 import android.view.View
@@ -7,7 +7,7 @@ import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
-import com.sadataljony.app.android.demospinner.model.DemoModel
+import com.sadataljony.app.android.spinner.model.DemoModel
 import com.sadataljony.demospinner.databinding.ActivityMainBinding
 
 class LoadSpinnerFromJsonActivity : AppCompatActivity() {

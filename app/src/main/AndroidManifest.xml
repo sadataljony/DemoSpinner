@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoSpinner">
         <activity
-            android:name="com.sadataljony.app.android.demospinner.ui.LoadSpinnerFromJsonActivity"
+            android:name="com.sadataljony.app.android.spinner.ui.LoadSpinnerFromJsonActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

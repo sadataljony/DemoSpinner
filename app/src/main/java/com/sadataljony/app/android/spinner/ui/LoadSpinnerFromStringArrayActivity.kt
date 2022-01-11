@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.demospinner.ui
+package com.sadataljony.app.android.spinner.ui
 
 import android.os.Bundle
 import android.view.View
